@@ -1,0 +1,17 @@
+Expression 1: (+48) + (+23)
+First operand : 00110000 ( 48 )
+Second operand: 00010111 ( 23 )
+Effective second operand: 00010111
+Operation: +
+Result (8-bit binary): 01000111
+Result (decimal): 71
+Arithmetic overflow: NO
+
+Expression 2: (-46) - (-29)
+First operand : 11010010 ( -46 )
+Second operand: 11100011 ( -29 )
+Effective second operand: 00011101
+Operation: -
+Result (8-bit binary): 11101111
+Result (decimal): -17
+Arithmetic overflow: NO
