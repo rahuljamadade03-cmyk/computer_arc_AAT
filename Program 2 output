@@ -1,0 +1,13 @@
+A) Rotate Right without Carry (ROR)
+Original binary number: 11010101
+After rotation 1: 11101010
+After rotation 2: 01110101
+Final ROR result: 01110101
+
+B) Rotate Right Through Carry (RCR)
+Original binary number: 11010101
+Initial carry flag: 0
+After rotation 1: 01101010, Carry = 1
+After rotation 2: 10110101, Carry = 0
+Final RCR result: 10110101
+Final carry flag: 0
